@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\net\InfiniteQuadTree\obj\Debug\InfiniteQuadTree.csprojAssemblyReference.cache
+C:\Users\PC\Documents\net\InfiniteQuadTree\obj\Debug\InfiniteQuadTree.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\net\InfiniteQuadTree\bin\Debug\InfiniteQuadTree.exe.config
+C:\Users\PC\Documents\net\InfiniteQuadTree\bin\Debug\InfiniteQuadTree.exe
+C:\Users\PC\Documents\net\InfiniteQuadTree\bin\Debug\InfiniteQuadTree.pdb
+C:\Users\PC\Documents\net\InfiniteQuadTree\obj\Debug\InfiniteQuadTree.exe
+C:\Users\PC\Documents\net\InfiniteQuadTree\obj\Debug\InfiniteQuadTree.pdb
